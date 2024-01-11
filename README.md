@@ -1,6 +1,6 @@
 # Welcome to Code Chronicles!
 
-🚀 Dive into the world of programming challenges and their solutions with this repository. Here, you'll find a diverse collection of code solutions spanning various programming domains, from web development to algorithms, data structures, and more.
+🚀 Dive into the world of programming challenges and their solutions with this repository. Here, you'll find a diverse collection of code solutions spanning various programming domains, from web development to algorithms, data structures, and more. if you are preparing for interview or your next role, you are in the right place.
 
 ## What You'll Find Here
 
